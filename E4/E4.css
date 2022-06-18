@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(171, 15, 51);
+}
+#contenedor {
+    box-shadow: 2px 2px 8px 5px snow;
+    width: 500px;
+    height: 500px;
+    border-radius: 2%;
+    margin-top: 4%;
+    margin-left: 37%;
+    
+}
+
+#seleccion {
+    display: flex;
+    justify-content: center;
+    
+}
+
+#seleccion-input {
+    height: 20px;
+    width: 220px;
+    margin-top: 25px;
+    
+}
+
+#seleccion-boton {
+    margin-left: 4px;
+    margin-top: 25px;
+    
+}
+
+#NyP {
+    margin-left: 750px;
+    margin-top: 50px;
+    width: 400px;
+    height: 45px;
+    font-size: 50px;
+    text-align: center;
+    border: solid black ;
+    background-color: whitesmoke;
+    box-shadow: 2px 2px 8px 5px snow;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
